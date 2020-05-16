@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+a{
+	 text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+body{
+	background-color: #DAECF4
+}
+header,section,footer{
+	width: 1220px;
+	margin: 0 auto;
+	overflow: hidden;
+	text-align:center;
+}
+header{
+	height: 240px;
+	overflow: hidden;
+}
+footer{
+	height: 60px;
+	overflow: hidden;
+}
+section{
+	margin: 20px auto;
+	overflow: hidden;
+	height: 780px;
+	background-color: #FCFCFC;
+	}
+table{
+	margin: auto;
+	height:60px;
+	width:500px;
+	background-color:#030303 ;
+}
+section>div{
+	float: left;
+}
+.left{
+	width: 500px;
+	margin-top: 20px;
+	margin-right: 20px;
+    margin-left: 10px;
+	height: 700px;
+}
+.left-one{
+	width: 500px;
+	height: 180px;
+    background-color: #DAECF4;
+}
+.left-two{
+	width: 500px;
+	height: 400px;
+	background-color: #DAECF4;
+}
+.left-three{
+	width: 500px;
+	height: 120px;
+	
+}
+.right{
+	width: 680px;
+	margin-top: 20px;
+	background-color: #DAECF4;
+	height: 700px;
+	margin-right: 10px;
+}
+.right-one{
+	width: 680px;
+	height: 107px;
+	margin-top: 10px;
+    
+}
+.right-two{
+	width: 680px;
+	height: 107px;
+	margin-top: 10px;
+    
+	
+}
+.right-three{
+	width: 680px;
+	height: 107px;
+	margin-top: 10px;
+
+	
+}
+.right-four{
+	width: 680px;
+	height: 107px;
+	margin-top: 10px;
+ 
+	
+}
+.right-five{
+	width: 680px;
+	height: 106px;
+	margin-top: 10px;
+
+	
+}
+.right-six{
+	width: 680px;
+	height: 106px;
+	margin-top: 10px;
+    
+	
+}
+.left-1{
+	width: 120px;
+	height: 106px;
+	margin-right: 20px;
+	float: left;
+	background-color: #DAECF4;
+}
+.right-1{
+	width: 530px;
+	height: 106px;
+	float: left;
+    background-color: #DAECF4;
+}
+
+
+
+	
